@@ -60,20 +60,23 @@ A beautifully designed and fully responsive landing page built using **React.js*
 
 ## 🛠 Installation & Run
 
-```bash
-# 1️⃣ Clone the repository
-git clone https://github.com/YourUsername/fylo-modern-landing-page.git
 
-# 2️⃣ Navigate to the project folder
-cd fylo-modern-landing-page
+- ### Clone the repository
+      git clone https://github.com/YourUsername/fylo-modern-landing-page.git
 
-# 3️⃣ Install dependencies
-npm install
+- ### Navigate to the project folder
+      cd fylo-modern-landing-page
 
-# 4️⃣ Start the development server
-npm start
+- ### Install dependencies
+      npm install
 
----
+- ### Start the development server
+      npm start
+  
+- ### Open in your browser
+      http://localhost:3000
+
+  ---
 
 ## 👩‍💻 Author
 
