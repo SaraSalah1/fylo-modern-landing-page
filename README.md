@@ -42,7 +42,7 @@ A beautifully designed and fully responsive landing page built using **React.js*
 
 ## 📸 Screenshots
 
-*(You can replace the image URLs below with your own project screenshots)*
+
 
 ### 🏠 Landing Section
 <img src="https://github.com/user-attachments/assets/placeholder1" width="600" alt="Landing Section" />
